@@ -1,0 +1,27 @@
+body{
+    background-color: #2f4050;
+}
+.col-sm-10{
+    background-color: #ffffff;
+}
+#side_menu a{
+    color: #9fb1c2;
+}
+#side_menu .active a{
+    color: #ffffff;
+    background-color: #27AAE1;
+    font-weight: bold;
+}
+#side_menu a:hover{
+    color: #ffffff;
+    background-color: #1ab394;
+    font-weight: bold;
+    display: block;
+}
+#Footer{
+    padding: 10px;
+    border-top: 1px solid black;
+    color: lightgoldenrodyellow;
+    background-color: #211f22;
+    text-align: center;
+}
