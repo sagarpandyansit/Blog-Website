@@ -20,14 +20,14 @@ CONTENTS OF THIS FILE
 **Selected Snapshots of Portal:**
  
  * Login Page: <br>
-![Image of Login Page](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/LoginPageforboth.png)
+![Image of Login Page](https://github.com/sagarpandyansit/Blog-Website/blob/master/screenshots/AdminLoginPage.png)
  
  * Admin Dashboard: <br>
- ![Image of Admin Dashboard](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/StudentDashboard.png)
+ ![Image of Admin Dashboard](https://github.com/sagarpandyansit/Blog-Website/blob/master/screenshots/AdminDashboard.png)
  
  * Moderate comments: <br>
- ![Moderate comments](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/TPODashboard.png)
+ ![Moderate comments](https://github.com/sagarpandyansit/Blog-Website/blob/master/screenshots/moderateComments.png)
  
  * Complete Working portal: <br>
- ![Wrking portal gif](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/20200930_163956.gif)
+ ![Wrking portal gif](https://github.com/sagarpandyansit/Blog-Website/blob/master/screenshots/20200930_202257.gif)
 
