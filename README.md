@@ -17,3 +17,17 @@ CONTENTS OF THIS FILE
 <a name="WorkingModel"></a>
 ## Working Model
 
+**Selected Snapshots of Portal:**
+ 
+ * Login Page: <br>
+![Image of Login Page](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/LoginPageforboth.png)
+ 
+ * Admin Dashboard: <br>
+ ![Image of Admin Dashboard](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/StudentDashboard.png)
+ 
+ * Moderate comments: <br>
+ ![Moderate comments](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/TPODashboard.png)
+ 
+ * Complete Working portal: <br>
+ ![Wrking portal gif](https://github.com/sagarpandyansit/TPOPortal/blob/master/Screenshots/20200930_163956.gif)
+
