@@ -29,5 +29,5 @@ CONTENTS OF THIS FILE
  ![Moderate comments](https://github.com/sagarpandyansit/Blog-Website/blob/master/screenshots/moderateComments.png)
  
  * Complete Working portal: <br>
- ![Wrking portal gif](https://github.com/sagarpandyansit/Blog-Website/blob/master/screenshots/20200930_202257.gif)
+ ![Wrking portal gif](https://github.com/sagarpandyansit/Blog-Website/blob/master/screenshots/projectDemo.gif)
 
